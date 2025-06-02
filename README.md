@@ -1,1 +1,1 @@
-# dad2
+# HelloOOP.java файлыг устгасан.
